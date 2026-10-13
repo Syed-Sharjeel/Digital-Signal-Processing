@@ -67,7 +67,7 @@ After completing these labs, students should be able to:
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/<username>/Digital-Signal-Processing-CodeLabs.git
+git clone https://github.com/Syed-Sharjeel/Digital-Signal-Processing.git
 ```
 
 2. Open the desired lab folder.
