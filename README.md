@@ -17,7 +17,7 @@ Digital-Signal-Processing-CodeLabs/
 ├── Lab-04-Correlation/
 ├── Lab-05-DFT-Linear-Transformation/
 ├── Lab-06-DFT-Audio-Signal/
-├── Lab-07-Laplace-and-CTFT/
+├── Lab-07-S-Plane-System-Analysis/
 ├── Lab-08-ZTransform-and-DTFT/
 ├── Lab-09-FIR-Filter-Design/
 ├── Lab-10-IIR-Filter-Design/
